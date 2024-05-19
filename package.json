@@ -4,7 +4,7 @@
   "description": "A simple demo to show how to use the cypress testing library to use dom testing queries within cypress",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "cyrunner": "cypress open --e2e --browser chrome"
   },
   "author": "Joan Esquivel",
   "license": "ISC",
